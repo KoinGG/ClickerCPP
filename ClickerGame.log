@@ -1,0 +1,14 @@
+﻿  ClickerGame.cpp
+C:\Users\veryh\source\repos\ClickerGamePlusPlus\ClickerGame\ClickerGame.cpp(248,61): warning C4838: Преобразование из "unsigned int" в "int" требует сужающего преобразования.
+C:\Users\veryh\source\repos\ClickerGamePlusPlus\ClickerGame\ClickerGame.cpp(251,55): warning C4838: Преобразование из "unsigned int" в "int" требует сужающего преобразования.
+C:\Users\veryh\source\repos\ClickerGamePlusPlus\ClickerGame\ClickerGame.cpp(326,61): warning C4838: Преобразование из "unsigned int" в "int" требует сужающего преобразования.
+C:\Users\veryh\source\repos\ClickerGamePlusPlus\ClickerGame\ClickerGame.cpp(329,55): warning C4838: Преобразование из "unsigned int" в "int" требует сужающего преобразования.
+  main.cpp
+C:\Users\veryh\source\repos\ClickerGamePlusPlus\ClickerGame\main.cpp(21,18): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\veryh\source\repos\ClickerGamePlusPlus\ClickerGame\main.cpp(32,14): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+  Property.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 178 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ClickerGame.vcxproj -> C:\Users\veryh\source\repos\ClickerGamePlusPlus\ClickerGame\x64\Release\ClickerGame.exe
