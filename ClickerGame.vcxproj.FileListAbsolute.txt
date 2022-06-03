@@ -1,1 +1,2 @@
 Z:\ОАИП\ClickerCPP.dev\x64\Release\ClickerGame.exe
+C:\Users\veryh\source\repos\ClickerGamePlusPlus\ClickerGame\x64\Release\ClickerGame.exe

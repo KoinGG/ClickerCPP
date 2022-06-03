@@ -1,14 +1,14 @@
 ﻿  ClickerGame.cpp
-Z:\ОАИП\ClickerCPP.dev\ClickerGame.cpp(222,18): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
-Z:\ОАИП\ClickerCPP.dev\ClickerGame.cpp(314,18): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
-Z:\ОАИП\ClickerCPP.dev\ClickerGame.cpp(334,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-Z:\ОАИП\ClickerCPP.dev\ClickerGame.cpp(336,55): warning C4838: Преобразование из "float" в "int" требует сужающего преобразования.
-Z:\ОАИП\ClickerCPP.dev\ClickerGame.cpp(336,55): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-Z:\ОАИП\ClickerCPP.dev\ClickerGame.cpp(364,36): warning C4244: -=: преобразование "float" в "__int64", возможна потеря данных
+C:\Users\veryh\source\repos\ClickerGamePlusPlus\ClickerGame\ClickerGame.cpp(222,18): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\veryh\source\repos\ClickerGamePlusPlus\ClickerGame\ClickerGame.cpp(322,18): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\veryh\source\repos\ClickerGamePlusPlus\ClickerGame\ClickerGame.cpp(342,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\veryh\source\repos\ClickerGamePlusPlus\ClickerGame\ClickerGame.cpp(344,55): warning C4838: Преобразование из "float" в "int" требует сужающего преобразования.
+C:\Users\veryh\source\repos\ClickerGamePlusPlus\ClickerGame\ClickerGame.cpp(344,55): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\veryh\source\repos\ClickerGamePlusPlus\ClickerGame\ClickerGame.cpp(380,36): warning C4244: -=: преобразование "float" в "__int64", возможна потеря данных
   main.cpp
   Property.cpp
   Создание кода
-  Previous IPDB not found, fall back to full compilation.
-  All 179 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 181 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Создание кода завершено
-  ClickerGame.vcxproj -> Z:\ОАИП\ClickerCPP.dev\x64\Release\ClickerGame.exe
+  ClickerGame.vcxproj -> C:\Users\veryh\source\repos\ClickerGamePlusPlus\ClickerGame\x64\Release\ClickerGame.exe
